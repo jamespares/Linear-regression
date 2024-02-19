@@ -41,4 +41,4 @@ R-squared: Explains the proportion of variance in 'medv' explained by the model.
 
 **Interpretation:**
 
-The model suggests that a higher average number of rooms per dwelling is positively associated with the median value of homes, while a higher proportion of the population with lower status is negatively associated with the median value of homes.
+The model suggests that a higher average number of rooms per dwelling is positively correlated with the median value of homes, while a higher proportion of the population with lower status is inversely correlated with the median value of homes.
